@@ -34,6 +34,7 @@
         <h2>Welcome ${pageContext.request.userPrincipal.name} | <a onclick="document.forms['logoutForm'].submit()">Logout</a></h2>
 		<h3>This is the Devops model.</h3>
 		<p>This is the new paragraph. Hurray!!!</p>
+		<div>This is really interesting. Welcome to devops.</div>
     </c:if>
 
 </div>
